@@ -63,7 +63,7 @@ html, body {
 }
 
 #nav a {
-    pointer-events: all;
+    pointer-events: none;
     text-decoration: none;
     color: #fff;
     text-transform: uppercase;
@@ -108,7 +108,7 @@ html, body {
 }
 
 #container-left button {
-    pointer-events: all;
+    pointer-events: none;
     font-family: "kajiro";
     padding: .8vw 2vw;
     font-size: 3vw;
